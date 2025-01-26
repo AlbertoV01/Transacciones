@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Transacciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65DF1E-15DB-4087-A187-2380D61D801C}|RDN\\RDN.csproj|c:\\users\\alber\\onedrive\\escritorio\\transacciones\\rdn\\opinventarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A65DF1E-15DB-4087-A187-2380D61D801C}|RDN\\RDN.csproj|solutionrelative:rdn\\opinventarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "opInventarios.cs",
+              "DocumentMoniker": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Transacciones\\RDN\\opInventarios.cs",
+              "RelativeDocumentMoniker": "RDN\\opInventarios.cs",
+              "ToolTip": "C:\\Users\\Alber\\OneDrive\\Escritorio\\Transacciones\\RDN\\opInventarios.cs",
+              "RelativeToolTip": "RDN\\opInventarios.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:03:38.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

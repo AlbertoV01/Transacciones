@@ -21,5 +21,27 @@ Este es un proyecto de inventario desarrollado en C# con SQL Server como base de
 
 -Uso de base de datos relacional simple
 
+** Para lograr la conexión con la base de datos primero se tiene que esepecificar el servidor al que se conectará. Esto se modifica en el archivo App.config
 
 
+![images](Transacciones/Resources/images/img0.png)
+
+
+## -- Inicio de sesión
+
+![images](Transacciones/Resources/images/img1.png)
+
+## -- Sección Producto/Inventario
+![images](Transacciones/Resources/images/img2.png)
+
+## -- Sección Producto
+![images](Transacciones/Resources/images/img3.png)
+
+## -- Búsqueda de productos previamente agregados
+![images](Transacciones/Resources/images/img4.png)
+
+## -- Sección Inventario / Movimiento tipo entrada
+![images](Transacciones/Resources/images/img5.png)
+
+## -- Sección Inventario / Movimiento tipo salida
+![images](Transacciones/Resources/images/img6.png)
